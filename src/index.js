@@ -274,6 +274,7 @@ ReactJS mini-project 1.
 // ---------------------------------------------------------------------------------------
 // ---------------------------------------------------------------------------------------
 
+//Enable this block for React Hooks implementation.
 //React Components.
 import React from 'react';
 import ReactDOM from 'react-dom';
